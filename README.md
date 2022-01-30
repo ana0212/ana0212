@@ -1,4 +1,4 @@
-![HEADER](https://github.com/ana0212/ana0212/blob/main/image.jpg?raw=true)
+![HEADER](https://github.com/ana0212/ana0212/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.jpg)
 
 <!--
 **ana0212/ana0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
