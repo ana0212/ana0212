@@ -3,7 +3,7 @@
 :question:**Who am I?:**
 - :woman:I'm a former Art/Music teacher that became a data scientist
 
-:star:**Skills:**
+:large_blue_diamond:**Skills:**
 - :snake:Python
 - :bar_chart:Power BI
 - :game_die:SQL
@@ -11,7 +11,7 @@
 - :star:Spark
 - :computer:Machine Learning
 
-:earth_americas:**Find me in other places*:*
+:earth_americas:**Find me in other places:**
 - :large_blue_circle:[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-0212/)
 
 :clipboard:**Projects:**
