@@ -5,9 +5,9 @@
 
 :large_blue_diamond:**Skills:**
 - :snake:Python
+- :books:Storytelling
 - :bar_chart:Power BI
 - :game_die:SQL
-- :books:Storytelling
 
 :earth_americas:**Find me in other places:**
 - :large_blue_circle:[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-0212/)
