@@ -16,3 +16,4 @@
 - [Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic](https://github.com/ana0212/Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic)
 - [Clean and Analyze Employee Exit Surveys](https://github.com/ana0212/Clean-and-Analyze-Employee-Exit-Surveys)
 - [HR Dashboard on Power BI](https://github.com/ana0212/HR-Dashboard-on-Power-BI)
+- [Answering Business Questions Using SQL](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
