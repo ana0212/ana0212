@@ -10,7 +10,7 @@
 - :game_die:SQL
 
 :earth_americas:**Find me in other places:**
-- :large_blue_circle:[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-0212/)
+- :large_blue_circle:[LinkedIn](www.linkedin.com/in/ana-luiza-miranda-ds)
 
 :clipboard:**Projects:**
 - [Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic](https://github.com/ana0212/Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic)
