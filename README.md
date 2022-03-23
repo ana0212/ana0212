@@ -17,3 +17,4 @@
 - [Clean and Analyze Employee Exit Surveys](https://github.com/ana0212/Clean-and-Analyze-Employee-Exit-Surveys)
 - [HR Dashboard on Power BI](https://github.com/ana0212/HR-Dashboard-on-Power-BI)
 - [Answering Business Questions Using SQL](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
+- [Building a Spam filter (Naive Bayes)](https://github.com/ana0212/Building-a-Spam-filter-Naive-Bayes-)
