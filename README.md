@@ -14,7 +14,7 @@
 
 :clipboard:**Projects:**
 
--[Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
+- [Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
 - [Predicting Car Prices (KNN)](https://github.com/ana0212/Predicting-Car-Prices-With-KNN)
 - [Building a Spam filter (Naive Bayes)](https://github.com/ana0212/Building-a-Spam-filter-Naive-Bayes-)
 - [Answering Business Questions Using SQL](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
