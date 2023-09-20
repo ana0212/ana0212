@@ -1,7 +1,7 @@
 ![HEADER](https://github.com/ana0212/ana0212/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.jpg)
 
 :question:**Who am I?:**
-- :woman:I'm a junior data scientist, passionate about learning, communicating and new challenges.
+- :woman:I'm a Data Science student, passionate about learning, communicating and new challenges.
 
 :large_blue_diamond:**Skills:**
 - :snake:Python
