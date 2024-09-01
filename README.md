@@ -14,6 +14,7 @@
 
 :clipboard:**Projects:**
 
+- [Network Automation with Python: Proposing a closed-loop system with SNMP data](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
 - [Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
 - [Predicting Car Prices (KNN)](https://github.com/ana0212/Predicting-Car-Prices-With-KNN)
 - [Building a Spam filter (Naive Bayes)](https://github.com/ana0212/Building-a-Spam-filter-Naive-Bayes-)
