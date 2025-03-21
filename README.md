@@ -4,6 +4,7 @@
 
 :woman: I'm a final-year Computer Engineering student passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
 
+
 :large_blue_diamond:Skills:
 
 :snake: Python (Pandas, NumPy, Matplotlib, Seaborn, Geopandas, Scikit-learn, Dask, Plotly, Dash, TensorFlow, Spacy)
@@ -18,9 +19,11 @@
 
 :bulb: Problem-Solving & Analytical Thinking
 
+
 :earth_americas:**Find me in other places:**
 
 - :large_blue_circle:[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-ds/)
+  
 
 :clipboard:**Projects:**
 
