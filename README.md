@@ -2,7 +2,7 @@
 
 :question:Who am I?:
 
-:woman: I'm a final-year Computer Engineering student passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
+:woman: I'm a Computer Engineer passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
 
 
 :large_blue_diamond:Skills:
@@ -28,7 +28,7 @@
 :clipboard:**Projects:**
 
 - AI-Powered Food Classification and Nutritional Recommendation System (In Progress)
-- Yelp Business & Sentiment Analysis in Tennessee
+- [Yelp Business & Sentiment Analysis in Tennessee](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
 - Predicting Recidivism with Machine Learning (COMPAS dataset) - Lisbon Data Science Academy
 - [Network Automation with Python: Proposing a closed-loop system with SNMP data](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
 - [Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
