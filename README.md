@@ -1,4 +1,4 @@
-![HEADER](https://github.com/ana0212/ana0212/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.jpg)
+![HEADER](https://github.com/ana0212/ana0212/blob/main/Header.jpg)
 
 :question:Who am I?:
 
