@@ -2,7 +2,7 @@
 
 :question:Who am I?:
 
-:woman: I'm a Computer Engineer passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
+:large_blue_diamond: I'm a Computer Engineer passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
 
 
 :large_blue_diamond:Skills:
