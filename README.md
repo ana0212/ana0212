@@ -27,7 +27,7 @@
 
 :clipboard:**Projects:**
 
-- AI-Powered Food Classification and Nutritional Recommendation System (In Progress)
+- [AI-Powered Food Classification and Nutritional Recommendation System](https://github.com/ana0212/NutriVisao/tree/main)
 - [Yelp Business & Sentiment Analysis in Tennessee](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
 - Predicting Recidivism with Machine Learning (COMPAS dataset) - Lisbon Data Science Academy
 - [Network Automation with Python: Proposing a closed-loop system with SNMP data](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
