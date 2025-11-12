@@ -1,4 +1,4 @@
-![HEADER](https://github.com/ana0212/ana0212/blob/main/Header.jpg)
+![HEADER](https://github.com/ana0212/ana0212/blob/main/Header.png)
 
 :question:Who am I?:
 
