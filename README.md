@@ -30,6 +30,7 @@
 - [AI-Powered Food Classification and Nutritional Recommendation System](https://github.com/ana0212/NutriVisao/tree/main) - [Página do Streamlit](https://nutrivisao.streamlit.app/)
 - [Yelp Business & Sentiment Analysis in Tennessee](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
 - Predicting Recidivism with Machine Learning (COMPAS dataset) - Lisbon Data Science Academy
+- [Previsão da Qualidade do Ar em Lisboa (Análise de Séries Temporais)](https://github.com/ana0212/Previsao_da_Qualidade_do_Ar_em_Lisboa)
 - [Network Automation with Python: Proposing a closed-loop system with SNMP data](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
 - [Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
 - [Predicting Car Prices (KNN)](https://github.com/ana0212/Predicting-Car-Prices-With-KNN)
