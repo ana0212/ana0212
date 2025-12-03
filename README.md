@@ -1,41 +1,64 @@
 ![HEADER](https://github.com/ana0212/ana0212/blob/main/Header.png)
 
-:question:Who am I?:
+Sou Engenheira Informática com foco em Ciência de Dados, Inteligência Artificial e soluções orientadas a dados. Tenho experiência prática em análise exploratória, modelagem estatística, machine learning, NLP, visão computacional e desenvolvimento de aplicações com Python.  
+Gosto de transformar dados em insights acionáveis e desenvolver produtos analíticos que apoiam decisões e inovação.
 
-:large_blue_diamond: I'm a Computer Engineer passionate about digital transformation, data-driven solutions, and AI-driven innovation. I thrive in dynamic environments and love tackling complex problems with technology.
+---
 
+## Competências Técnicas  
 
-:large_blue_diamond:Skills:
+**Linguagens e Ferramentas:**  
+Python (Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, TensorFlow, SpaCy)  
+SQL (PostgreSQL, MySQL)  
+Power BI · Excel  
+Streamlit · Flask · APIs
 
-:snake: Python (Pandas, NumPy, Matplotlib, Seaborn, Geopandas, Scikit-learn, Dask, Plotly, Dash, TensorFlow, Spacy)
+**Áreas de atuação:**  
+Ciência de Dados · Machine Learning · NLP · Visão Computacional  
+Séries Temporais · Business Intelligence · Storytelling com Dados  
 
-:bar_chart: Data Science & Machine Learning (Supervised & Unsupervised Learning, NLP, Statistical Modeling, Computer Vision)
+---
 
-:game_die: SQL (PostgreSQL, MySQL)
+## Onde me encontrar  
 
-:chart_with_upwards_trend: Power BI & Data Visualization
+[LinkedIn:](https://www.linkedin.com/in/ana-luiza-miranda-ds/)  
 
-:globe_with_meridians: Web Development (Flask, Railway)
+---
 
-:bulb: Problem-Solving & Analytical Thinking
+## Projetos em Destaque
 
+- **NutriVisão — Classificação Alimentar + Recomendações Nutricionais com IA**  
+  Classificação via visão computacional (CNN + Transfer Learning) + Sistema de Recomendação com cosine similarity - Integração RAG/LLM para respostas personalizadas.  
+  [Repositório](https://github.com/ana0212/NutriVisao/tree/main) | [App](https://nutrivisao.streamlit.app/)
 
-:earth_americas:**Find me in other places:**
+- **Yelp — Análise de Negócios e Sentimentos (Tennessee)**  
+  Modelo de classificação com TF-IDF + SVM e dashboard interativo (Plotly/Dash).  
+  [Repositório](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
 
-- :large_blue_circle:[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-ds/)
-  
+- **Predição de Reincidência Criminal — COMPAS**  
+  Classificação com deploy via API Flask + análise de vieses.  
+  [Repositório](https://github.com/ana0212/Capstone)
 
-:clipboard:**Projects:**
+- **Previsão da Qualidade do Ar em Lisboa (Séries Temporais)**  
+  Modelagem com SARIMAX e feature engineering.  
+  [Repositório](https://github.com/ana0212/Previsao_da_Qualidade_do_Ar_em_Lisboa)
 
-- [AI-Powered Food Classification and Nutritional Recommendation System](https://github.com/ana0212/NutriVisao/tree/main) - [Página do Streamlit](https://nutrivisao.streamlit.app/)
-- [Yelp Business & Sentiment Analysis in Tennessee](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
-- [Predicting Recidivism with Machine Learning (COMPAS dataset) - Lisbon Data Science Academy](https://github.com/ana0212/Capstone)
-- [Previsão da Qualidade do Ar em Lisboa (Análise de Séries Temporais)](https://github.com/ana0212/Previsao_da_Qualidade_do_Ar_em_Lisboa)
-- [Network Automation with Python: Proposing a closed-loop system with SNMP data](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
-- [Análise de IDHM e ENEM 2020](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
-- [Predicting Car Prices (KNN)](https://github.com/ana0212/Predicting-Car-Prices-With-KNN)
-- [Building a Spam filter (Naive Bayes)](https://github.com/ana0212/Building-a-Spam-filter-Naive-Bayes-)
-- [Answering Business Questions Using SQL](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
-- [HR Dashboard on Power BI](https://github.com/ana0212/HR-Dashboard-on-Power-BI)
-- [Clean and Analyze Employee Exit Surveys](https://github.com/ana0212/Clean-and-Analyze-Employee-Exit-Surveys)
-- [Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic](https://github.com/ana0212/Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic)
+- **Closed-Loop Network Automation — Anomaly Detection com Python e SNMP**  
+  Sistema de automação com >90% de precisão em ataques DDoS.  
+  [Repositório](https://github.com/ana0212/Closed-Loop-System-with-SNMP-Data)
+
+- **Análise de IDHM e ENEM 2020 — Prioridade Educacional**  
+  Seleção de escolas em cidades com baixo IDHM para investimento social.  
+  [repositório](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
+
+- **Respondendo Perguntas de Negócios Usando SQL**  
+  [Repositório](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
+
+- **Painel de RH em Power BI**  
+  [Repositório](https://github.com/ana0212/HR-Dashboard-on-Power-BI)
+
+- **Limpeza e Análise de Exit Surveys — Recursos Humanos**  
+  [Repositório](https://github.com/ana0212/Clean-and-Analyze-Employee-Exit-Surveys)
+
+- **Storytelling e Visualização — Taxas de Câmbio na Pandemia**  
+  [Repositório](https://github.com/ana0212/Storytelling-Data-Visualization-on-Exchange-Rates-during-COVID-19-Pandemic)
