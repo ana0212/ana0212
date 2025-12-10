@@ -49,7 +49,7 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
 
 - **Análise de IDHM e ENEM 2020 — Prioridade Educacional**  
   Seleção de escolas em cidades com baixo IDHM para investimento social.  
-  [repositório](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
+  [Repositório](https://github.com/ana0212/Analise-do-IDHM-e-do-ENEM-2020)
 
 - **Respondendo Perguntas de Negócios Usando SQL**  
   [Repositório](https://github.com/ana0212/Answering-Business-Questions-Using-SQL)
