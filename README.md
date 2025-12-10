@@ -21,7 +21,7 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
 
 ## Onde me encontrar  
 
-[LinkedIn:](https://www.linkedin.com/in/ana-luiza-miranda-ds/)  
+[LinkedIn](https://www.linkedin.com/in/ana-luiza-miranda-ds/)  
 
 ---
 
