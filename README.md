@@ -31,9 +31,9 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
   Classificação via visão computacional (CNN + Transfer Learning) + Sistema de Recomendação com cosine similarity - Integração RAG/LLM para respostas personalizadas.  
   [Repositório](https://github.com/ana0212/NutriVisao/tree/main) | [App](https://nutrivisao.streamlit.app/)
 
-- **Yelp — Análise de Negócios e Sentimentos (Tennessee)**  
-  Modelo de classificação com TF-IDF + SVM e dashboard interativo (Plotly/Dash).  
-  [Repositório](https://github.com/ana0212/Yelp---Analise-do-estado-do-Tennessee/blob/main/Notebook%20-%20Yelp%20-%20An%C3%A1lise%20do%20estado%20do%20Tennessee.ipynb)
+- **Sistema de Análise de Negócios do Yelp com Dash e FastAPI**  
+  Sistema de análise de avaliações do Yelp utilizando Machine Learning para classificação de sentimento e clusterização de negócios.
+  [Repositório](https://github.com/ana0212/Sistema-de-Analise-de-Negocios-do-Yelp-com-Dash-e-FastAPI)
 
 - **Predição de Reincidência Criminal — COMPAS**  
   Classificação com deploy via API Flask + análise de vieses.  
