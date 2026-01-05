@@ -33,6 +33,7 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
 
 - **Sistema de Análise de Negócios do Yelp com Dash e FastAPI**  
   Sistema de análise de avaliações do Yelp utilizando Machine Learning para classificação de sentimento e clusterização de negócios.
+  
   [Repositório](https://github.com/ana0212/Sistema-de-Analise-de-Negocios-do-Yelp-com-Dash-e-FastAPI) | [App](https://yelp-dashboard.onrender.com/)
 
 - **Predição de Reincidência Criminal — COMPAS**  
