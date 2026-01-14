@@ -37,7 +37,7 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
 
 - **Predição de Reincidência Criminal — COMPAS**  
   Classificação com deploy via API Flask + análise de vieses.  
-  [Repositório](https://github.com/ana0212/Capstone)
+  [Repositório](https://github.com/ana0212/Compas-Recidivism-Risk-Assessment/tree/main)
 
 - **Previsão da Qualidade do Ar em Lisboa (Séries Temporais)**  
   Modelagem com SARIMAX e feature engineering.  
