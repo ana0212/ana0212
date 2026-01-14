@@ -40,6 +40,7 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
   [Repositório](https://github.com/ana0212/Compas-Recidivism-Risk-Assessment/tree/main)
 
 - **Sistema de Gestão de Estoques**
+
   Aplicação web full stack desenvolvida em Python para controle, monitoramento e análise de estoques.
   [Repositório](https://github.com/ana0212/Sistema-de-Gestao-de-Estoques)
 
