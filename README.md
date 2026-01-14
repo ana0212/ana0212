@@ -39,6 +39,10 @@ Séries Temporais · Business Intelligence · Storytelling com Dados
   Classificação com deploy via API Flask + análise de vieses.  
   [Repositório](https://github.com/ana0212/Compas-Recidivism-Risk-Assessment/tree/main)
 
+- **Sistema de Gestão de Estoques**
+  Aplicação web full stack desenvolvida em Python para controle, monitoramento e análise de estoques.
+  [Repositório](https://github.com/ana0212/Sistema-de-Gestao-de-Estoques)
+
 - **Previsão da Qualidade do Ar em Lisboa (Séries Temporais)**  
   Modelagem com SARIMAX e feature engineering.  
   [Repositório](https://github.com/ana0212/Previsao_da_Qualidade_do_Ar_em_Lisboa)
